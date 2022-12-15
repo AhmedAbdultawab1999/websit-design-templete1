@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Varela Round', sans-serif;
     -webkit-box-sizing: border-box;
-    /* Safari/Chrome, other WebKit */
+    /* Safari/Chrome*/
     -moz-box-sizing: border-box;
     /* Firefox, other Gecko */
     box-sizing: border-box;
@@ -59,7 +59,7 @@ li{
 
 .navbar>li a {
     display: inline-block;
-    text-decoration: none;
+    //text-decoration: none;
     /* background-color: blueviolet; */
     display: block;
     padding: 30px 15px;
